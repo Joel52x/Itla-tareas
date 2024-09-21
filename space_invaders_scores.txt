@@ -1,0 +1,6 @@
+Joel: 90000
+Adelson: 120
+Carlos: 90
+KKK: 70
+s: 0
+sss: 0
